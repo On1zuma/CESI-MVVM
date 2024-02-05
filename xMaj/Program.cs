@@ -13,6 +13,8 @@ namespace xMaj
             Console.WriteLine("Welcome to xMaj");
             Console.WriteLine("Entrez un minimum de 1 à 8 caractères:");
             Console.ReadLine();
+            Console.ReadLine();
+
         }
     }
 }
